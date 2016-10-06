@@ -38,6 +38,10 @@ html body header nav ul li mark {
   background-color: #719e07;
 }
 
+main ul li:nth-child(3) {
+  background-color: #2694d8;
+}
+
 ol li:first-child {
   color: #719e47;
 }
