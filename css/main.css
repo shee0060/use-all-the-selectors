@@ -20,4 +20,9 @@ ul {
 
 .wrapper {
   background-color:#eee8d5;
+  :first-child
+}
+
+.contents, .favs, .facts, .types, {
+  color: #93a1a1;
 }
