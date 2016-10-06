@@ -1,5 +1,5 @@
 body {
-  background-color:#fdf6e3;
+  background-color: #fdf6e3;
 }
 
 header {
@@ -19,8 +19,11 @@ ul {
 }
 
 .wrapper {
-  background-color:#eee8d5;
-  :first-child
+  background-color: #eee8d5;
+}
+
+.wrapper > .dfn {
+  background-color:#fff;
 }
 
 .contents, .favs, .facts, .types, {
