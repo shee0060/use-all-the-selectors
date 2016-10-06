@@ -30,7 +30,7 @@ ul {
   color: #fff;
 }
 
-.contents, .favs, .facts, .types, {
+.contents .favs .facts .types {
   color: #93a1a1;
 }
 
