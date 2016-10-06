@@ -23,9 +23,27 @@ ul {
 }
 
 .wrapper > .dfn {
-  background-color: #fff;
+  background-color: #b58900;
+}
+
+.wrapper div > strong {
+  color: #fff;
 }
 
 .contents, .favs, .facts, .types, {
   color: #93a1a1;
 }
+
+html body header nav ul li mark {
+  background-color: #719e07;
+}
+
+ol li:first-child {
+  color: #719e47;
+}
+
+ol li:last-child {
+  color: #2aa198;
+}
+
+.types + li {}
